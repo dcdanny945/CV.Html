@@ -4,3 +4,35 @@
     color: #EBE3D5;
 }
 
+.photo{
+    position: relative;
+    display: inline-block;
+    margin-left: 1px;
+}
+.title{
+    float: left;
+}
+.h2{
+    float: left;
+}
+.aboutmecontainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;   
+}
+.Educationbox{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.WorkExperience{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 2px;
+    height: auto;
+}
+.VENUES{
+    font-size:medium;
+    font-weight:bold;
+}
